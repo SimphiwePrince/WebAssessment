@@ -1,0 +1,6 @@
+@Restul_Web_Assessment_HostAddress = http://localhost:5188
+
+GET {{Restul_Web_Assessment_HostAddress}}/bankaccountservice/
+Accept: application/json
+
+###
