@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Restul Web Assessment.props" />
+</Project>
